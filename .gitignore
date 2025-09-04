@@ -1,2 +1,31 @@
 #Ignora arquivos de configuração de pastas do KDE
 .directory
+
+#Ignora banco de dados de treino da CNN
+plantio_14_10_2024_treino/
+
+#Ignora banco de dados de validação da CNN
+plantio_14_10_2024_validacao/
+
+__pycache__
+
+.venv
+
+src
+
+target
+
+labels.txt
+
+log_validacao_completo.txt
+
+modelo_redsia_soja_vgg16.zip
+
+pom.xml
+
+resnet50_soja.onnx
+
+resnet50_soja.pth
+
+soja_resnet_50.py
+
