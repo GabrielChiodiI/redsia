@@ -1,0 +1,1 @@
+Add the resnet50_soja.onnx file found in the main readme link here, in this folder

@@ -11,9 +11,9 @@ __pycache__
 
 .venv
 
-src
-
 target
+
+teste_1_python_onnx
 
 labels.txt
 
@@ -21,11 +21,10 @@ log_validacao_completo.txt
 
 modelo_redsia_soja_vgg16.zip
 
-pom.xml
-
-resnet50_soja.onnx
-
 resnet50_soja.pth
 
-soja_resnet_50.py
+test_onnx.py
 
+test_pytorch.py
+
+teste.py
